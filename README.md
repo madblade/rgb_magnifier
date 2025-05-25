@@ -1,3 +1,8 @@
+
+![rgb_1](https://github.com/user-attachments/assets/b7053d2f-fbc5-43e3-a1fd-53218c15f885)
+![rgb_2](https://github.com/user-attachments/assets/abce58f1-e991-4ff8-b2e5-4529c71ef7c4)
+![rgb_3](https://github.com/user-attachments/assets/5ef246be-f3a6-445e-a4f7-d8fde36df03f)
+
 # How to use
 
 - Right-click on window: exit
