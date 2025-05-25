@@ -3,10 +3,7 @@
 - Right-click on window: exit
 - Middle-mouse click on window: change mode (1: RGB, 2: pixels, 3: pixels with borders)
 - Mousewheel on window: zoom (3 levels)
-- Moving the mouse anywhere refreshes the display
-- To refresh without moving the mouse: bring window to focus and hit or hold any keyboard key
-- Drag and drop window to move it around
-
+- Move around the window by click-dragging it
 
 # Build from source
 
