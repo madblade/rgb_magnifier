@@ -24,7 +24,7 @@ You can source SDK dirs with:
 
 Note: /Oi- mandatory for /O2 and avoiding the CRT memset.
 
-- Build in Debug + for PIX profiling:
+### Build in Debug and for PIX profiling:
 `cl .\rgb_magnifier.c /O2 /Oi- /MD /GS- /Zi /link /entry:Main /subsystem:windows /nodefaultlib /DEBUG:FULL user32.lib kernel32.lib gdi32.lib /out:rgb_magnifier.exe`
 
 # License
@@ -35,3 +35,4 @@ MIT
 
 This uses WinGDI which is the simplest way to get screen pixels.
 BitBlt (>30%), GetDIBits, SetDIBits are the main bottlenecks.
+Executable size should be 8KiB.
